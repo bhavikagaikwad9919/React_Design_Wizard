@@ -1,0 +1,60 @@
+angle: 0
+assetId: "188334"
+backgroundColor: ""
+clipTo: null
+cropX: 0
+cropY: 0
+description: "Thumb up representing social network logo above the word like written on blue background"
+fileType: "jpg"
+fill: "rgb(0,0,0)"
+fillRule: "nonzero"
+filters: []
+flipX: false
+flipY: false
+globalCompositeOperation: "source-over"
+height: 641
+inGroup: false
+initialHeight: 641
+initialWidth: 800
+isChild: false
+isTransparent: false
+keywords: ["digital", "digitally generated", "computer graphic", "concept", "positive", "hand", "thumb up",…]
+left: 300
+locked: false
+modelReleaseIds: ["N/A"]
+nonPaddedLeft: 300
+nonPaddedTop: 209.625
+objectCaching: true
+opacity: 1
+originX: "left"
+originY: "top"
+paintFirst: "fill"
+price: 2
+promotion: 0
+propertyReleaseIDs: ["N/A"]
+scaleX: 0.75
+scaleY: 0.75
+shadow: null
+skewX: 0
+skewY: 0
+source: "wbm"
+src: "https://api.designwizard.com/api/assets/getFileV2?access_token=Xy7ngOmiS8sYO93YsajBAha2tTUrREm3psWPtPzNI9cZKZPaWYxpsxNFdLfr5Ttj&fileData={%22source%22:%22wbm%22,%22assetId%22:%22188334%22,%22extension%22:%22jpg%22}"
+stroke: null
+strokeDashArray: null
+strokeDashOffset: 0
+strokeLineCap: "butt"
+strokeLineJoin: "miter"
+strokeMiterLimit: 4
+strokeWidth: 0
+thumb: "https://s3-eu-west-1.amazonaws.com/wbm.thumbnail/designwizard/100/188334.jpg"
+top: 209.625
+transformMatrix: null
+type: "image"
+uid: "wbm_336a3445-b2f9-4d61-a1ae-0d73a62fe5f8"
+version: "3.6.2"
+visible: true
+width: 800
+
+
+
+[{"artboardId":1,"width":1920,"height":1080,"scale":null,"extension":"mp4","title":"S0220EO_vid","keywords":"globe,earth,spinning,rotating,space,everything,animation,high,definition,high definition,high-def,view, digitally generated,digital animation,montage, clouds,continents,countries,from space,void,black,darkness,oceans,ocean,country,home,space station,station,sun,bright,light,shining,40s,Mature Adult,Man,Male,Caucasian,40-44 Years,Mature Men,Caucasian Ethnicity","modelReleaseIds":[],"propertyReleaseIDs":[],"type":"default","background":null,"thumb":null,"layers":[{"type":"video","version":"3.6.0","originX":"left","originY":"top","left":0,"top":0,"width":640,"height":360,"fill":"rgb(0,0,0)","stroke":null,"strokeWidth":0,"strokeDashArray":null,"strokeLineCap":"butt","strokeDashOffset":0,"strokeLineJoin":"miter","strokeMiterLimit":4,"scaleX":3,"scaleY":3,"angle":0,"flipX":false,"flipY":false,"opacity":1,"shadow":null,"visible":true,"clipTo":null,"backgroundColor":"","fillRule":"nonzero","paintFirst":"fill","globalCompositeOperation":"source-over","transformMatrix":null,"skewX":0,"skewY":0,"locked":true,"objectCaching":false,"isChild":false,"uid":"wbm_e10416ad-14f7-4c68-8b75-74ebdd750cab","src":"blob:https://app.designwizard.com/e11232a7-6047-4a6c-8f3c-a25803e8351f","filters":[],"thumb":"https://s3-eu-west-1.amazonaws.com/wbm.thumbnail/low/786839_300.jpg","keywords":["globe","earth","spinning","rotating","space","everything","animation","high","definition","high definition","high-def","view"," digitally generated","digital animation","montage"," clouds","continents","countries","from space","void","black","darkness","oceans","ocean","country","home","space station","station","sun","bright","light","shining","40s","Mature Adult","Man","Male","Caucasian","40-44 Years","Mature Men","Caucasian Ethnicity"],"modelReleaseIds":[],"propertyReleaseIDs":[],"description":"animation of spinning earth","price":{"sd":4.99,"4k":49.99,"hd":19.99},"promotion":{"sd":0,"4k":0,"hd":0},"source":"wbm","assetId":786839,"fileType":"mp4","cropX":0,"cropY":0,"maxWidth":1920,"maxHeight":1080,"poster":"https://s3-eu-west-1.amazonaws.com/wbm.thumbnail/low/786839_300.jpg","videoContainerId":"canvas-videos","is4k":false,"totalLength":15000,"duration":7320,"startTime":0,"offset":0,"initialWidth":640,"initialHeight":360},{"type":"AnimatedGroup","version":"3.6.0","originX":"left","originY":"top","left":135.00000000000045,"top":311.02034680645124,"width":1029.52,"height":525.57,"fill":"rgb(0,0,0)","stroke":null,"strokeWidth":0,"strokeDashArray":null,"strokeLineCap":"butt","strokeDashOffset":0,"strokeLineJoin":"miter","strokeMiterLimit":4,"scaleX":1,"scaleY":1,"angle":0,"flipX":false,"flipY":false,"opacity":1,"shadow":null,"visible":true,"clipTo":null,"backgroundColor":"","fillRule":"nonzero","paintFirst":"fill","globalCompositeOperation":"source-over","transformMatrix":null,"skewX":0,"skewY":0,"locked":false,"objectCaching":false,"isChild":false,"uid":"wbm_fde7f8d4-3921-4b08-b2f9-89144c24c586","animationId":"210066d6-9a4a-46fb-acfc-bb0689971f61","bounds":{"height":524.573977173739,"width":1028.520346806451},"canvasSize":{"name":"Video","width":1920,"height":1080,"dpi":72,"displayWidth":"1920 px","displayHeight":"1080 px","featuredTemplate":"07f9a630-b929-11e9-8f59-8d5e9e336b19","order":17,"parents":[{"id":114}],"visible":true,"webQualityDownload":true,"id":13,"$$hashKey":"object:133","videoUrl":{}},"configuration":[{"id":"mRatio","property":"ratio","refs":["mainText"],"value":0.8},{"id":"mFont","property":"fontFamily","refs":["mainText"],"value":"Poppins"},{"id":"mWeight","property":"fontWeight","refs":["mainText"],"value":700},{"id":"mStyle","property":"fontStyle","refs":["mainText"],"value":"normal"},{"id":"mColor","property":"fill","refs":["mainText"],"value":"rgba(255,255,255,1)"},{"id":"mAlign","property":"textAlign","refs":["mainText"],"value":"center"},{"id":"mValign","property":"valign","refs":["mainText"],"value":"center"},{"id":"mLineSpacing","property":"lineHeight","refs":["mainText"],"value":1},{"id":"mPadding","property":"innerPadding","refs":["mainText"],"scaleFactor":"canvas.height/1080","value":0},{"id":"sFont","property":"fontFamily","refs":["subText"],"value":"Crimson Text"},{"id":"sWeight","property":"fontWeight","refs":["subText"],"value":"normal"},{"id":"sStyle","property":"fontStyle","refs":["subText"],"value":"normal"},{"id":"sColor","property":"fill","refs":["subText"],"value":"rgba(255,255,255,1)"},{"id":"sAlign","property":"textAlign","refs":["subText"],"value":"center"},{"id":"sValign","property":"valign","refs":["subText"],"value":"center"},{"id":"sLineSpacing","property":"lineHeight","refs":["subText"],"value":1},{"id":"sPadding","property":"innerPadding","refs":["subText"],"scaleFactor":"canvas.height/1080","value":0},{"id":"mPrim","property":"fill","refs":["leftQuoteMark","rightQuoteMark"],"title":"Quote","value":"#4DB4AAFF"},{"id":"mSec","property":"fill","refs":[{"properties":["stroke"],"ref":"border"}],"title":"Border","value":"rgba(255,255,255,0)"}],"disabledEffects":[],"duration":6952,"mainText":"Somewhere, something \nincredible\nis waiting to be known.","startTime":240,"subText":"Carl Sagan","timePadding":2752}],"guides":{"rows":3,"columns":3}}]
